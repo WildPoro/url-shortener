@@ -1,3 +1,8 @@
+""" Author
+Kristian Zotka  
+[LinkedIn](https://www.linkedin.com/in/kristian-zotka)
+"""
+
 import azure.functions as func
 import random
 import string
